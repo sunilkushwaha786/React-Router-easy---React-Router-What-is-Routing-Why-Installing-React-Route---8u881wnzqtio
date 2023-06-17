@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
                     <Link to="/home" className="home-link">Home Page</Link>
                 </li>
                 <li>
-                    <Link to="/index" className="index-link" >Index Page</Link>
+                    <Link to="/" className="index-link" >Index Page</Link>
                 </li>
             </ul>
         </nav>
